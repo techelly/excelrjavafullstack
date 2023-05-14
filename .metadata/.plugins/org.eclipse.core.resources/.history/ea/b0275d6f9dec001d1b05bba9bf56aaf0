@@ -1,0 +1,11 @@
+package daytwo.classes;
+
+public class CarMain {
+
+	public static void main(String[] args) {
+		//By calling or invoking the Car() constructor 
+		Car car = new Car();
+
+	}
+
+}

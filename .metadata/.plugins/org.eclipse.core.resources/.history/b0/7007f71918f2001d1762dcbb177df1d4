@@ -1,0 +1,24 @@
+package daythree.oops;
+
+public class Car {
+	private String color;
+	private Double weight;
+	private Integer speed;
+	private String model;
+	
+	
+	public void startcar(){
+		System.out.println("Start the car");
+	}
+	
+	public void changeGear(){
+			System.out.println("Change the gear");
+	}
+	public void slowDown(){
+			System.out.println("Slow down the car");
+	}
+	
+	public void brake(){
+		System.out.println("Apply the brake");
+	}
+}

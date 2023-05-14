@@ -1,0 +1,9 @@
+package dayone.second;
+
+public class Sample {
+	public static void main(String[] args) {
+		//i_val is a variable
+		int i_val = 0;
+		System.out.println("i_val value : "+i_val);
+	}
+}

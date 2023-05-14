@@ -1,0 +1,14 @@
+package daytwo.classes;
+
+import java.time.LocalDate;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		Employee emp1 = new Employee();
+		Employee emp2 = new Employee(15,"Rahul","Gandhi",LocalDate.of(2000, 11, 10),9988776655L,15234343.54);
+		Employee emp3 = new Employee(11,"Priyanka","Gandhi");
+
+	}
+
+}

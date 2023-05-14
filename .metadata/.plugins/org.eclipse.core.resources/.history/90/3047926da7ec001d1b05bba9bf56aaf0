@@ -1,0 +1,22 @@
+package daytwo.classes;
+
+public class Department {
+	private int deptId;
+	private String deptName;
+	/**
+	 * 
+	 */
+	public Department() {
+		// TODO Auto-generated constructor stub
+	}
+	/**
+	 * @param deptId
+	 * @param deptName
+	 */
+	public Department(int deptId, String deptName) {
+		this.deptId = deptId;
+		this.deptName = deptName;
+	}
+	
+	
+}

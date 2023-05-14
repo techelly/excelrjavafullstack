@@ -1,0 +1,12 @@
+package daytwo.classes;
+
+public class CarMain {
+
+	public static void main(String[] args) {
+		//By calling or invoking the Car() constructor  using new we are 
+		//creating an object which is referred by a reference variable named as car
+		Car car = new Car();
+
+	}
+
+}

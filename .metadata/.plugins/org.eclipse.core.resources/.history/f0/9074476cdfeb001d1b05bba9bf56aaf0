@@ -1,0 +1,33 @@
+package dayone.second;
+
+public class ArraysExample {
+	public static void main(String[] args) {
+		
+		int [] x; //declares an array of integers
+		x=new int[5]; //allocates memory for 5 integers
+		
+		int[] y = {10,20,30};
+		
+		//int[] numbers = {10,"Hello",20};
+		int lengthOfArrayY= y.length;
+		System.out.println(lengthOfArrayY);
+		
+		System.out.println(x.length);
+		System.out.println(x[0]);
+		System.out.println(x[1]);
+		System.out.println(y[0]);
+		
+		x[0]=1;
+		x[2]=11;
+		x[1]=10;
+		x[3]=5;
+		x[4]=8;
+		System.out.println(x);
+		x[5]=8;
+		
+		int m[] = new int[5];
+		System.out.println("Length of the m is --- "+m.length);
+		m=new int[10];
+		System.out.println("Length of the m is --- "+m.length);
+	}
+}

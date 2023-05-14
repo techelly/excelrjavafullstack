@@ -1,0 +1,13 @@
+package daytwo.classes;
+
+public class Car {
+	
+	//brand -- name of company who is manufacturing the car for example honda,toyota etc
+	//models -- City,Innova etc .  
+	//transmission ---  Automatic or Manual
+	//fuelType --- Diesel, Petrol,Hybrid, EV
+	
+	
+	
+
+}

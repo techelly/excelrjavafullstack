@@ -1,0 +1,26 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(µÆÒ|8¡¶Óış0H RMAJORZ
+CODE_SMELL
+j	java:S106	"9Replace this use of System.out or System.err by a logger.(ı¤è8’•ğış0HURMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(¦®ÄÃøÿÿÿÿ8’•ğış0HYRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(öÏôıûÿÿÿÿ8’•ğış0HWRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(“ŒÂöùÿÿÿÿ8’•ğış0HXRMAJORZ
+CODE_SMELL
+‡	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÌïÎıÿÿÿÿ8¡¶Óış0H!RMINORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(™ì§Éùÿÿÿÿ8’•ğış0HZRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(ü†„Áùÿÿÿÿ8’•ğış0HVRMAJORZ
+CODE_SMELL
+h
+java:S1854"5Remove this useless assignment to local variable "x".(üÁûŸ8ø¨‹£ÿ0HÕRMAJORZ
+CODE_SMELL
+Y
+java:S1481"&Remove this unused "x" local variable.(üÁûŸ8ø¨‹£ÿ0HÖRMINORZ
+CODE_SMELL
+g
+java:S1854"5Remove this useless assignment to local variable "x".(Äóºp8ÁÙ£ÿ0HÛRMAJORZ
+CODE_SMELL

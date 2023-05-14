@@ -1,0 +1,13 @@
+package daytwo.classes;
+
+import java.time.LocalDate;
+
+public class Employee {
+	
+	private int empId;
+	private String firstName;
+	private String lastName;
+	private LocalDate dateOfBirth;
+	private Long mobileNumber;
+	private double salary;
+}

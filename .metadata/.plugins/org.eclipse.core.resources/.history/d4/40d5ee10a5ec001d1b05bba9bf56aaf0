@@ -1,0 +1,11 @@
+package daytwo.classes;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		Employee emp1 = new Employee();
+		Employee emp12 = new Employee(,,,,,,);
+
+	}
+
+}

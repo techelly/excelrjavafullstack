@@ -1,0 +1,14 @@
+package daythree.oops;
+
+//public keyword is one of the access modifier
+/**
+ * 
+ * @author UD SYSTEMS
+ *public private
+ *protected
+ *default
+ */
+public class Student {
+	private int studentId;
+	private String name;
+}

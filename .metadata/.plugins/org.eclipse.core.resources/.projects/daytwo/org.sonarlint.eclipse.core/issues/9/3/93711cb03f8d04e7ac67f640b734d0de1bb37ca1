@@ -1,0 +1,19 @@
+
+p
+java:S1854"8Remove this useless assignment to local variable "arrC".(¦ÅÒ¬øÿÿÿÿ8×ï±¦ÿ0HýRMAJORZ
+CODE_SMELL
+^
+java:S1481"&Remove this unused "c" local variable.(ÊÞ“÷ÿÿÿÿÿ8×ï±¦ÿ0H€RMINORZ
+CODE_SMELL
+m
+java:S1854"5Remove this useless assignment to local variable "c".(ÊÞ“÷ÿÿÿÿÿ8×ï±¦ÿ0HüRMAJORZ
+CODE_SMELL
+a
+java:S1481")Remove this unused "arrC" local variable.(¦ÅÒ¬øÿÿÿÿ8×ï±¦ÿ0HþRMINORZ
+CODE_SMELL
+q
+java:S1854"9Remove this useless assignment to local variable "hello".(ý·£ÿúÿÿÿÿ8ÞÚ·¦ÿ0H“RMAJORZ
+CODE_SMELL
+b
+java:S1481"*Remove this unused "hello" local variable.(ý·£ÿúÿÿÿÿ8ÞÚ·¦ÿ0H”RMINORZ
+CODE_SMELL

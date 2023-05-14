@@ -1,0 +1,24 @@
+package daytwo.classes;
+
+import java.time.LocalDate;
+
+public class UserMain {
+
+	public static void main(String[] args) {
+		User u = new User();
+		u.setCity("Bengaluru");
+		u.setFirstName("Eldo");
+		u.setLastName("Jose");
+		u.setMobileNumber(999999111L);
+		u.setDateOfBirth(LocalDate.of(1999, 10, 15));
+		
+		
+		System.out.println("User Date of birth --"+u);
+		System.out.println("User Date of birth --"+u.getDateOfBirth());
+		
+		User u = new User("Ibrahim","Shekh",LocalDate.of(1999, 10, 15),9999555511,);
+		
+	
+	}
+
+}

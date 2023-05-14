@@ -1,0 +1,11 @@
+package daythree.oops;
+
+public class StudentMain {
+
+	public static void main(String[] args) {
+		//here student is a reference variable referring to Student object
+		Student student = new Student();
+
+	}
+
+}

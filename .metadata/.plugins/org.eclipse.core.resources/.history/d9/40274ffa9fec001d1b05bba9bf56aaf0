@@ -1,0 +1,13 @@
+package daytwo.classes;
+
+public class UserMain {
+
+	public static void main(String[] args) {
+		User u = new User();
+		u.setCity("Bengaluru");
+		u.setFirstName("Eldo");
+		u.setLastName("Jose");
+		u.setMobileNumber(999999111L);
+	}
+
+}
