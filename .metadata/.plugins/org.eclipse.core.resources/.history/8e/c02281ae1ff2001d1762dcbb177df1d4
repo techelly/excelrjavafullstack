@@ -1,0 +1,6 @@
+package daythree.oops.inheritance;
+
+public class Child extends Parent {
+	private String childName;
+	
+}

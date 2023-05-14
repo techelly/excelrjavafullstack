@@ -1,0 +1,10 @@
+package daythree.oops.abstraction;
+
+/**
+ * 
+ * @author UD SYSTEMS
+ * Abstract class is a restricted class that cannot be used to create an instance
+ */
+public abstract class Account {
+			
+}

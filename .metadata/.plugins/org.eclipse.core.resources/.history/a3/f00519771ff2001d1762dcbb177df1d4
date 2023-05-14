@@ -1,0 +1,7 @@
+package daythree.oops.inheritance;
+
+public class Parent {
+	private String name;
+	
+	
+}
