@@ -1,7 +1,0 @@
-package daytwo.classes;
-
-public class Employee {
-	
-	private int empId;
-	private String firstName;
-}

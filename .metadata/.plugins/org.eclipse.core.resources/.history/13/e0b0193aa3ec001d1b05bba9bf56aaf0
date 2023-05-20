@@ -1,6 +1,0 @@
-package daytwo.classes;
-
-public class Employee {
-	
-	private Integer empId;
-}

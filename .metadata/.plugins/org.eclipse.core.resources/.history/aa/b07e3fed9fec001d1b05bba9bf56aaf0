@@ -1,9 +1,0 @@
-package daytwo.classes;
-
-public class UserMain {
-
-	public static void main(String[] args) {
-		User u = new User();
-	}
-
-}

@@ -1,9 +1,0 @@
-package dayone.second;
-
-public class ArraysExample {
-	public static void main(String[] args) {
-		
-		int [] x;
-		x=new int[5];
-	}
-}

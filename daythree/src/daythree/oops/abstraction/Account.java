@@ -17,6 +17,9 @@ public abstract class Account {
 	//abstract method
 	public abstract void accountInfo();
 	
+	//abstract method
+	public abstract void accountInfo2();
+	
 	public Integer getX() {
 		return x;
 	}

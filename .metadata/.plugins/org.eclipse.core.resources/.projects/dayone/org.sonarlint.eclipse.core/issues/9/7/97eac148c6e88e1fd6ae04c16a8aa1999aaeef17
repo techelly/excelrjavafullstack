@@ -1,14 +1,14 @@
 
-j	java:S106"9Replace this use of System.out or System.err by a logger.(ΰ‰δώ8‚…Ζϋώ0HRMAJORZ
+^
+java:S1481"&Remove this unused "i" local variable.(ωσ›Μψÿÿÿÿ8»ισόώ0HΩRMINORZ
 CODE_SMELL
-]
-java:S1481"&Remove this unused "i" local variable.(ωσ›Μψÿÿÿÿ8»ισόώ0HRMINORZ
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ΔΑϊÿÿÿÿ8»ισόώ0HΫRMINORZ
 CODE_SMELL
-o	java:S106
-"9Replace this use of System.out or System.err by a logger.(κ©ο„ωÿÿÿÿ8»ςϊώ0H	RMAJORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ΰ‰δώ8‚…Ζϋώ0HάRMAJORZ
 CODE_SMELL
-‡	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ΔΑϊÿÿÿÿ8»ισόώ0HRMINORZ
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(κ©ο„ωÿÿÿÿ8»ςϊώ0HέRMAJORZ
 CODE_SMELL
-]
-java:S1481"&Remove this unused "I" local variable.(–ΔΑϊÿÿÿÿ8»ισόώ0HRMINORZ
+^
+java:S1481"&Remove this unused "I" local variable.(–ΔΑϊÿÿÿÿ8»ισόώ0HήRMINORZ
 CODE_SMELL
