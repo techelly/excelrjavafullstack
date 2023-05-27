@@ -1,8 +1,0 @@
-package daythree.oops;
-
-public class Car {
-	private String color;
-	private Double weight;
-	private Integer speed;
-	private String model;
-}

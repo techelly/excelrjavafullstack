@@ -1,5 +1,0 @@
-package daythree.oops.abstraction;
-
-public abstract class Account {
-
-}

@@ -1,5 +1,0 @@
-package daythree.oops.abstraction;
-
-public class SavingAccount  extends Account{
-	private Integer accountNo;
-}

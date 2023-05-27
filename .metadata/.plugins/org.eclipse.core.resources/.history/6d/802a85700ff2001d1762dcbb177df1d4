@@ -1,7 +1,0 @@
-package daythree.oops;
-
-//public keyword is one of the access modifier
-
-public class Student {
-
-}

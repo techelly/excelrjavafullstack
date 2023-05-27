@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="daythree.oops.abstraction.SavingAccount"/>
+    <fullyQualifiedTypeName name="dayfour.staticexample.ApplicationConstants"/>
+    <fullyQualifiedTypeName name="dayfour.staticexample.Calculation"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="java.time.ZoneId"/>
+    <fullyQualifiedTypeName name="java.time.ZonedDateTime"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+    <fullyQualifiedTypeName name="java.util.Currency"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="dayfive.innerclassexample.MemberInnerClassExample"/>
+    <fullyQualifiedTypeName name="dayfive.innerclassexample.MemberInnerClassExample.InnerClass"/>
+    <fullyQualifiedTypeName name="dayfive.innerclassexample.OuterClass"/>
+    <fullyQualifiedTypeName name="dayfive.innerclassexample.OuterClass.InnerClass"/>
+    <fullyQualifiedTypeName name="dayfive.innerclassexample.LocalInnerClassExample"/>
+    <fullyQualifiedTypeName name="dayfive.innerclassexample.OuterStaticClassExample.Inner"/>
+    <fullyQualifiedTypeName name="dayfive.innerclassexample.OuterStaticClassExample"/>
 </qualifiedTypeNameHistroy>
