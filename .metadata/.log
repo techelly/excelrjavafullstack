@@ -1338,3 +1338,24 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-05-27 09:35:06.568
 !MESSAGE executing callback sts4.classpath.KFvOuxYB SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-05-28 09:52:18.231
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-05-28 09:52:18.237
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-05-28 09:52:18.238
+!MESSAGE buffering callback sts4.classpath.KFvOuxYB dayeightexceptionshandling false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-05-28 09:52:18.239
+!MESSAGE executing callback sts4.classpath.KFvOuxYB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-05-28 09:52:18.276
+!MESSAGE executing callback sts4.classpath.KFvOuxYB SUCCESS [done]
+
+!ENTRY org.eclipse.ui.navigator 2 0 2023-05-28 11:28:31.701
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.ui.navigator 2 0 2023-05-28 11:28:31.701
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
